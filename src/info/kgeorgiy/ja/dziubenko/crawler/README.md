@@ -54,4 +54,4 @@
         `WebCrawler url [depth [downloads [extractors [perHost]]]]`
     * Для загрузки страниц требуется использовать реализацию `CachingDownloader` из тестов.
 
-[&Реализация](https://github.com/Ma-XD/Java-Advanced/blob/main/src/info/kgeorgiy/ja/dziubenko/crawler/WebCrawler.java}
+### [&Реализация](https://github.com/Ma-XD/Java-Advanced/blob/main/src/info/kgeorgiy/ja/dziubenko/crawler/WebCrawler.java)
